@@ -1,6 +1,6 @@
 <center><h1>CSS Positioning</h1></center>
-<h1>නොට් එක 🥷 </h1>
-<a href="https://docs.google.com/document/d/15OE7T0dk59r62uscmlHvusS6v8a03dRPxja250q0eQQ/edit?usp=sharing">GO TO NOTE</a>
+
+<a href="https://docs.google.com/document/d/15OE7T0dk59r62uscmlHvusS6v8a03dRPxja250q0eQQ/edit?usp=sharing"><h1>නොට් එක 🥷 </h1></a>
 <h2>In Class Text 01 (use relative)</h2>
 <img src="assets/image/text0.png" width="772">
 <h2>CODE</h2>
