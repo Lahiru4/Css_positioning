@@ -30,7 +30,7 @@
 </p>
 
 <h2>In Class Text 02 (use Absolute)</h2>
-<img src="C:\Users\Lahiru\Desktop\webIJSE\Css positioning start\Css positioning 01\assets\image\img.png"/>
+<img src="assets/image/img.png">
 <h2>CODE</h2>
 <p>
 
